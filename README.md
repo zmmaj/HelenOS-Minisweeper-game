@@ -32,3 +32,8 @@ happy gaming :)
 How Looks like
 
 ![slika](https://github.com/zmmaj/HelenOS-Minisweeper-game/assets/8336904/b5d52316-4834-4f78-9aac-56581978e761)
+
+![slika](https://github.com/zmmaj/HelenOS-Minisweeper-game/assets/8336904/225fd0ea-a87a-45b6-9036-09438a8a10a8)
+![slika](https://github.com/zmmaj/HelenOS-Minisweeper-game/assets/8336904/a69c2081-29c0-4366-8b34-00ecf2a8b6e7)
+
+
