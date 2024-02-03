@@ -24,13 +24,11 @@ apps = [
 'mines',   
 ]
 
-Save changes.
-![slika](https://github.com/zmmaj/HelenOS-Minisweeper-game/assets/8336904/b5d52316-4834-4f78-9aac-56581978e761)
-
-
-
 Compile HelenOs
 Start-> open Terminal
 write inside mines
 happy gaming :)
 
+How Looks like
+Save changes.
+![slika](https://github.com/zmmaj/HelenOS-Minisweeper-game/assets/8336904/b5d52316-4834-4f78-9aac-56581978e761)
