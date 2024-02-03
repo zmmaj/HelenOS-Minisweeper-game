@@ -1,5 +1,5 @@
 # HelenOS-Minisweeper-game
-Simple game for HelenOS. 
+Simple game for HelenOS. Release: 0.12.1.
 
 Yes.. I was test, this work.
 Maybe have bugs, maybe is ugly but work.
