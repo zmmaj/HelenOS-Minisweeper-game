@@ -19,10 +19,7 @@ apps = [
 .
 .
 'lprint',
-'mines',    // this is yor new game
-'mixerctl',
-.
-.
+'mines',   
 ]
 
 Save changes.
