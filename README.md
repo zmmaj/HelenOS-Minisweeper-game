@@ -8,6 +8,8 @@ Game works inside Terminal.
 
 
 How to install ?
+
+
 Download code,  and put all in app/mines/  folder ( of course only files)
 Add under "uspace/app" inside "meson.build" game name,
 Open meson.build, and add 'mines' in app list. 
